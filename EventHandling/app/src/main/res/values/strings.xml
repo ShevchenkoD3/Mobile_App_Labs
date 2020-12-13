@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <string name="ButtonClick">ButtonClick</string>
+    <string name="MotionEvent">MotionEvent</string>
+    <string name="CommonGestures">CommonGestures</string>
+    <string name="button">PRESS ME</string>
+    <string name="text">Hello world!</string>
+    <string name="text1">text1</string>
+    <string name="text2">text2</string>
+    <string name="gestureText">gestureText</string>
+</resources>
